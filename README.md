@@ -19,6 +19,8 @@ beta 0.0 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1
 Then it simulates model with all combinations in a loop.
 In the last step the function returns summary of the models' behaviour.
 
+Function requires parallel library 
+
 To do:
 1. Finish parallel processing
 2. Create nice summary
